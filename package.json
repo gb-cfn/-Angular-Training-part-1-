@@ -1,0 +1,14 @@
+{
+  "name": "httpclientlab",
+  "version": "1.0.0",
+  "description": "A simple plunker demonstrating Angular's Http Service - Uses SystemJS + TypeScript to compile on the fly",
+  "main": "systemjs-angular-loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular/cli": "^1.4.5"
+  }
+}
